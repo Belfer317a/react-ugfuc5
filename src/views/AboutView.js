@@ -3,7 +3,7 @@ import Names from '../components/Names';
 
 const AboutView = () => (
   <>
-    <p>dupa</p>
+    <h2 style={{textAlign:"center"}}>About</h2>
   </>
 )
 export default AboutView;

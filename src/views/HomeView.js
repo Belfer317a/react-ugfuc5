@@ -3,7 +3,7 @@ import Clock from '../components/Clock';
 
 const HomeView = () => (
   <>
-    <h3>dupa blada</h3>
+    <h2 style={{textAlign:"center"}}>Home</h2>
     <Clock />
   </>
 );

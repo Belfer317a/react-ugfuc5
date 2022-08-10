@@ -14,6 +14,7 @@ body{
 }
 ul{
   display: flex;
+  justify-content: center;
   list-style: none;
 }
 li{
@@ -34,4 +35,9 @@ a:hover{
   background-color: #90b8f8;
   color: #32548a;
   box-shadow: 0 0 4px 2px #32548a;
+}
+.active{
+  background-color: #90b8f8;
+  color: #ffffff;
+  box-shadow: inset 0 0 4px 2px #32548a;
 }
