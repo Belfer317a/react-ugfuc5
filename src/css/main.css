@@ -1,0 +1,14 @@
+/* body{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+.clock {
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
